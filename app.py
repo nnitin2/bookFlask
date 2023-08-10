@@ -2,7 +2,7 @@ from flask import Flask, render_template, request, redirect
 import sqlite3
 
  
-
+#hello from nitin
 app = Flask(__name__)
 
  
